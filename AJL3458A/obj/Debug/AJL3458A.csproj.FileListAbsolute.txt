@@ -1,0 +1,7 @@
+d:\My Documents\SharpDevelop Projects\AJL3458A\AJL3458A\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\SharpDevelop Projects\AJL3458A\AJL3458A\bin\Debug\AJL3458A.dll
+d:\My Documents\SharpDevelop Projects\AJL3458A\AJL3458A\bin\Debug\AJL3458A.pdb
+d:\My Documents\SharpDevelop Projects\AJL3458A\AJL3458A\bin\Debug\Ivi.Visa.Interop.dll
+d:\My Documents\SharpDevelop Projects\AJL3458A\AJL3458A\bin\Debug\Ivi.Visa.Interop.xml
+d:\My Documents\SharpDevelop Projects\AJL3458A\AJL3458A\obj\Debug\AJL3458A.dll
+d:\My Documents\SharpDevelop Projects\AJL3458A\AJL3458A\obj\Debug\AJL3458A.pdb
